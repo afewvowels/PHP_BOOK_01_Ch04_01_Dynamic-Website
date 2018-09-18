@@ -1,0 +1,20 @@
+@charset "utf-8"
+
+/*
+  Palette
+
+  White: #FCF7F6
+  Orange: #943600
+  Green: #08A368
+  Red: #A60835
+  Magenta: #9C0A5D
+  Blue: #1F3C8C
+
+ */
+
+html {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #1F3C8C;
+}
